@@ -1,0 +1,1 @@
+This is a simple Javascript project depicting a dice game between two players.The player whose die gets the bigger number wins the game.It's just meant to understand Javascript better in real life scenarios.
